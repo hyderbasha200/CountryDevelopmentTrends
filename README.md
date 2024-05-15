@@ -36,8 +36,6 @@ For any questions or further assistance, please contact the project creator, Sha
 
 ---
 
-### Files
-- *Project Primer_ Shaik Hyder Basha.twbx*: This workbook contains the initial project primer and data summary used for creating the Tableau workbook.
 [View Project Here](https://public.tableau.com/app/profile/hyder.basha.shaik/viz/ProjectPrimer_ShaikHyderBasha/Story1)
 
 ### Author
